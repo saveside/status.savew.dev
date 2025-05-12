@@ -29,7 +29,7 @@ sites:
 status-website:
   cname: status.savew.dev 
   logoUrl: https://raw.githubusercontent.com/kubernetes/kubernetes/refs/heads/master/logo/logo.png
-  themeUrl: https://raw.githubusercontent.com/saveside/status.savew.dev/refs/heads/master/assets/honeybee.css
+  themeUrl: https://status.krea.to/catppuccin-mocha.css
   name: savew.dev status
   introTitle: "**savew.dev** Health Status"
   introMessage: Status monitor for my websites.
