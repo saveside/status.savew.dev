@@ -1,0 +1,26 @@
+:root {
+  --body-background-color: #2f1b0c; /* deep honey base */
+  --body-text-color: #fff4d1; /* soft light honey */
+  --card-background-color: #4e3018; /* rich amber surface */
+  --nav-background-color: #4e3018; /* rich amber surface */
+  --nav-border-bottom-color: #6b3f1d; /* darker golden border */
+  --nav-current-border-bottom-color: #f6c177; /* golden honey highlight */
+  --card-border-color: #6b3f1d; /* dark golden */
+  --down-border-left-color: #d45a3f; /* warm red alert */
+  --down-background-color: #6b3f1d; /* same surface for down */
+  --degraded-border-left-color: #f0b94e; /* classic honey yellow */
+  --up-border-left-color: #e1c16e; /* soft golden */
+  --tag-color: #1a1208; /* dark hive tone */
+  --tag-up-background-color: #e1c16e; /* golden honey */
+  --tag-down-background-color: #d45a3f; /* warm red */
+  --tag-degraded-background-color: #f0b94e; /* honey yellow */
+  --change-background-color: #f6b26b; /* peachy orange */
+  --error-button-border-color: #f4c542; /* bright honey yellow */
+  --error-button-background-color: #e68a22; /* deep amber */
+  --error-button-color: #fff8e1; /* light cream */
+  --submit-button-border-color: #f4c542; /* bright honey yellow */
+  --submit-button-background-color: #e68a22; /* deep amber */
+  --submit-button-color: #fff8e1; /* light cream */
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
