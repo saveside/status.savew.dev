@@ -13,8 +13,6 @@ sites:
     url: https://argo.savew.dev
   - name: ai
     url: https://chat.savew.dev
-  - name: umami
-    url: https://umami.savew.dev/dashboard
   - name: main
     url: https://savew.dev
   - name: notes
