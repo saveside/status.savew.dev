@@ -1,26 +1,26 @@
 :root {
-  --body-background-color: #2f1b0c; /* $base */
-  --body-text-color: #fff4d1; /* $text */
-  --card-background-color: #4e3018; /* $surface0 */
-  --nav-background-color: #4e3018; /* $surface0 */
-  --nav-border-bottom-color: #6b3f1d; /* $surface1 */
-  --nav-current-border-bottom-color: #f6c177; /* $teal */
-  --card-border-color: #6b3f1d; /* $surface1 */
-  --down-border-left-color: #d45a3f; /* $red */
-  --down-background-color: #6b3f1d; /* $surface1 - darker variant for down status */
-  --degraded-border-left-color: #f0b94e; /* $yellow */
-  --up-border-left-color: #e1c16e; /* $green */
-  --tag-color: #1a1208; /* $mantle */
-  --tag-up-background-color: #e1c16e; /* $green */
-  --tag-down-background-color: #d45a3f; /* $red */
-  --tag-degraded-background-color: #f0b94e; /* $yellow */
-  --change-background-color: #f6b26b; /* $peach */
-  --error-button-border-color: #f4c542; /* $blue */
-  --error-button-background-color: #e68a22; /* $mauve */
-  --error-button-color: #fff8e1; /* $text */
-  --submit-button-border-color: #f4c542; /* $blue */
-  --submit-button-background-color: #e68a22; /* $mauve */
-  --submit-button-color: #fff8e1; /* $text */
+  --body-background-color: #23212C; /* $base */
+  --body-text-color: #fcefdc; /* $text — creamy honey */
+  --card-background-color: #3a2f2b; /* $surface0 — warm, dark honey brown */
+  --nav-background-color: #3a2f2b; /* $surface0 */
+  --nav-border-bottom-color: #5a4436; /* $surface1 — slightly lighter honey brown */
+  --nav-current-border-bottom-color: #f6c177; /* $teal — golden honey highlight */
+  --card-border-color: #5a4436; /* $surface1 */
+  --down-border-left-color: #d45a3f; /* $red — warm cinnamon red */
+  --down-background-color: #5a4436; /* $surface1 - darker variant for down status */
+  --degraded-border-left-color: #f0b94e; /* $yellow — golden honey */
+  --up-border-left-color: #e1c16e; /* $green — light honey amber */
+  --tag-color: #1a171f; /* $mantle — very dark plum */
+  --tag-up-background-color: #e1c16e; /* $green — same light honey */
+  --tag-down-background-color: #d45a3f; /* $red — cinnamon red */
+  --tag-degraded-background-color: #f0b94e; /* $yellow — golden */
+  --change-background-color: #f6b26b; /* $peach — soft orange honey */
+  --error-button-border-color: #f4c542; /* $blue — bold golden yellow */
+  --error-button-background-color: #e68a22; /* $mauve — amber orange */
+  --error-button-color: #fff8e1; /* $text — soft cream */
+  --submit-button-border-color: #f4c542; /* $blue — bright honey yellow */
+  --submit-button-background-color: #e68a22; /* $mauve — amber orange */
+  --submit-button-color: #fff8e1; /* $text — soft cream */
   --graph-opacity: 1;
   --graph-filter: none;
 }
