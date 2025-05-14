@@ -26,7 +26,7 @@ sites:
 
 status-website:
   cname: status.savew.dev 
-  logoUrl: https://raw.githubusercontent.com/kubernetes/kubernetes/refs/heads/master/logo/logo.png
+  logoUrl: https://raw.githubusercontent.com/saveside/k8s/refs/heads/main/assets/honey-k8s.png
   themeUrl: https://status.savew.dev/honeybee.css
   name: savew.dev status
   introTitle: "**savew.dev** Health Status"
