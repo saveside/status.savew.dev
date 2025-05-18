@@ -19,8 +19,6 @@ sites:
     url: https://notes.savew.dev
   - name: helm
     url: https://helm.savew.dev
-  - name: ai
-    url: https://ai.krea.to
   - name: vault
     url: https://vault.savew.dev
 
