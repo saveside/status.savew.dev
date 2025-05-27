@@ -1,7 +1,7 @@
 url: https://vault.savew.dev
-status: up
-code: 200
-responseTime: 1638
-lastUpdated: 2025-05-27T04:57:00.768Z
+status: down
+code: 521
+responseTime: 200
+lastUpdated: 2025-05-27T05:25:16.660Z
 startTime: 2025-05-12T18:37:53.988Z
 generator: Upptime <https://github.com/upptime/upptime>
