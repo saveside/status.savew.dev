@@ -9,8 +9,6 @@ sites:
     url: https://honeybee.savew.dev
     expectedStatusCodes:
       - 404
-  - name: argo
-    url: https://argo.savew.dev
   - name: ai
     url: https://chat.savew.dev
   - name: main
@@ -19,9 +17,8 @@ sites:
     url: https://notes.savew.dev
   - name: helm
     url: https://helm.savew.dev
-  - name: vault
-    url: https://vault.savew.dev
-
+  - name: files
+    url: https://files.savew.dev
 status-website:
   cname: status.savew.dev 
   logoUrl: https://raw.githubusercontent.com/saveside/k8s/refs/heads/main/assets/honey-k8s.png
